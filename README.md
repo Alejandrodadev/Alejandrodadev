@@ -8,13 +8,13 @@ I'm a junior web developer passionate about backend, automation and web developm
 - **English:** Currently studying and improving, B1
 
 ## Featured Projects
-- **Project 1: Automated URL Indexing App**
+- **Automated URL Indexing App**
   - **Description:** Developed a Python application for automating the indexing of URLs. The app reads URLs from a spreadsheet and automatically indexes them in Google Search Console. Implemented multithreading to efficiently process indexing tasks for multiple clients simultaneously.
   - **Technologies:** Python, Google Search Console API, Spreadsheet Processing.
   - **Links:**
     - [GitHub Repository](link_to_repository)
 
-- **Project 2:** Under construction.
+- **Currently working on an exciting new project. Stay tuned for updates!**
 
 ## Contact
 - 💼 LinkedIn: [Connect with me](https://www.linkedin.com/in/acostaalejandro223/)
