@@ -17,7 +17,7 @@ I'm a junior web developer passionate about backend, automation and web developm
 - **Currently working on an exciting new project. Stay tuned for updates!**
 
 ## Contact
-- 💼 LinkedIn: [Connect with me](https://www.linkedin.com/in/acostaalejandro223/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/acostaalejandro223/)
 - 🌐 Website: Under construction
 
 ## GitHub Stats
