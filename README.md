@@ -12,7 +12,7 @@ I'm a junior web developer passionate about backend, automation and web developm
   - **Description:** Developed a Python application for automating the indexing of URLs. The app reads URLs from a spreadsheet and automatically indexes them in Google Search Console. Implemented multithreading to efficiently process indexing tasks for multiple clients simultaneously.
   - **Technologies:** Python, Google Search Console API, Spreadsheet Processing.
   - **Links:**
-    - [GitHub Repository](link_to_repository)
+    - [GitHub Repository](https://github.com/Alejandrodadev/AutomatedIndexingGSC)
 
 - **Currently working on an exciting new project. Stay tuned for updates!**
 
