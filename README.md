@@ -1,9 +1,9 @@
-# Hi there! 👋 I'm Alex
+# Hi there! 👋
 
 ## About Me
-I'm a junior web developer passionate about backend, automation and web development. My main focus is on PHP, but I also have experience with other technologies like Python, HTML, CSS, and SQL.
-## Language Proficiency
+I'm a junior web developer passionate about backend and web development. My main focus is on PHP, but I also have experience with other technologies like Python, JavaScript, SQL.
 
+## Language Proficiency
 - **Spanish:** Native
 - **English:** Currently studying and improving, B1
 
